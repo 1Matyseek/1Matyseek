@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning HTML
 - 👑 I’m Owner Project TryhardNET
-- 💻 My Website is : https://www.1matyseek.tryhardnet.eu
+- 💻 My Website is: https://1matyseek.tryhardnet.eu/
 
 <!---
 1Matyseek/1Matyseek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
